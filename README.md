@@ -1,1 +1,3 @@
 # Crop-Recommendation-Model
+India's agricultural industry has a significant effect on the country's economy. The agriculture industry still employs half of the nation's workers.  The majority of agricultural techniques in the nation are archaic, and technical advancement in the industry is slow. Using effective technology, this industry may boost production while minimizing any problems.
+Machine learning in agriculture has the potential to be applied to various areas with outstanding results, tranning this ML model to recommend a best corp according to land can give a leverage in producing varity of crops in an area.
